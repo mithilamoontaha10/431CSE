@@ -1,6 +1,6 @@
 # 431CSE
 
-Link to unlisted YouTube video:
+Link to an unlisted YouTube video:
 https://youtu.be/_r9fndFxb0M
 
 Public link to the slide (Anyone on the internet can view without login):
